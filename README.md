@@ -1,10 +1,18 @@
-#Projet voiture
-Cours : l'Integration Continue 
-2022-2023
+# Projet voiture
 
-###Prerequis
--Systeme d'exploitation
--Commande linux
+Cours : l'Integration Continue 
+
+2022 - 2023
+
+### Prerequis
+
+- Systeme d'Exploitation
+- Commande Linux
 
 ### Initialisation
--Git
+
+- Git avec la commande suivante
+
+```sh
+sudo apt install git # Ubuntu/Debian
+```
