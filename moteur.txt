@@ -2,3 +2,4 @@ piece1
 piece2
 pieceElect1
 pieceElect2
+batterie
